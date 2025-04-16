@@ -63,21 +63,6 @@ This structure allows for:
 - rouge-score
 - tqdm
 
-### Setup (Google Colab / Local)
-
-#### Clone the repository:
-```bash
-git clone https://github.com/your-nasir9586/modular-text-summarization.git
-cd modular-text-summarization
-
-### Install dependencies:
-pip install -r requirements.txt
-
-Run the pipeline: python main.py
-
-## Note: Formatting and structuring of the text have been assisted using GPT for clarity and consistency.
-
-
 Insights Document
 =================
 
@@ -123,4 +108,18 @@ Conclusion:
 -----------
 While the implementation of a text summarization model using the BART architecture performed decently, several improvements can be made by fine-tuning the model, incorporating multimodal information, and exploring new evaluation methods. The limitations of informal language, small datasets, and token restrictions highlight the need for specialized models and domain-specific datasets in the future.
 
+### Setup (Google Colab / Local)
+
+#### Clone the repository:
+```bash
+git clone https://github.com/your-nasir9586/modular-text-summarization.git
+cd modular-text-summarization
+
+### Install dependencies:
+pip install -r requirements.txt
+
+Run the pipeline: python main.py
+
 ## Note: Formatting and structuring of the text have been assisted using GPT for clarity and consistency.
+
+
