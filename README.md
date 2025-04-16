@@ -67,7 +67,7 @@ This structure allows for:
 
 #### Clone the repository:
 ```bash
-git clone https://github.com/your-username/modular-text-summarization.git
+git clone https://github.com/your-nasir9586/modular-text-summarization.git
 cd modular-text-summarization
 
 ### Install dependencies:
